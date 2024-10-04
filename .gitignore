@@ -1,0 +1,18 @@
+# Compiled JavaScript files
+**/*.js
+**/*.js.map
+
+# Except the ESLint config file
+!.eslintrc.js
+
+# TypeScript v1 declaration files
+typings/
+
+# Node.js dependency directory
+node_modules/
+lib/
+
+# local firebase config
+.runtimeconfig.json
+.runtimeconfig-dev.json
+.runtimeconfig-prod.json
